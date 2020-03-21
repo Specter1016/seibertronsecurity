@@ -7,7 +7,6 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan({"com.seibertronsecurity.seibertronsecurity.controller"})
 public class SeibertronsecurityApplication extends SpringBootServletInitializer {
 
 	@Override
